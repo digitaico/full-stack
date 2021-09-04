@@ -1,0 +1,33 @@
+{
+  "name": "server-1",
+  "version": "1.0.0",
+  "description": "full stack server with graphql, typescrypt, react",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitaico/full-stack.git"
+  },
+  "keywords": [
+    "typescript",
+    "API",
+    "React",
+    "graphql",
+    "GO"
+  ],
+  "author": "Jorge Eduardo Ardila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitaico/full-stack/issues"
+  },
+  "homepage": "https://github.com/digitaico/full-stack#readme",
+  "dependencies": {
+    "eslint": "^7.32.0",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.2"
+  }
+}
